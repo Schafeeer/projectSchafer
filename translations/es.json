@@ -1,0 +1,10 @@
+{
+    "aboutPage": {
+        "aboutTitleOne": "Sobre mi",
+        "aboutTextOne": "Soy una persona muy apasionada. Mis pasatiempos son jugar videojuegos, cocinar y escuchar música todo el tiempo. También me encanta viajar y hoy en día me considero un ciudadano del mundo. Soy de Brasil, pero he estado viviendo en el extranjero desde agosto de 2022, cuando recibí una oferta y me mudé a Bogotá, Colombia. <br> Sueño con vivir en varios países y es algo que estoy planeando para los próximos años.",
+        "aboutVideo": "/videos/espanol.mp4",
+        "aboutTitleTwo": "Informaciones Adicionales",
+        "aboutTextTwo": "Soy un desarrollador de software principiante de 23 años con poca experiencia en desarrollo Front-end. Comencé con un título de Licenciatura en Ciencias de la Computación, que es lo que estoy cursando. En mayo de 2024, comencé mi primer curso sobre Desarrollo Web en CoderHouse, una escuela en línea argentina donde aprendí sobre HTML5, CSS3, SASS, Git, GitHub, Bootstrap (framework), las mejores prácticas de SEO y también cómo desplegar un sitio web. Después de este curso, inmediatamente comencé un curso de JavaScript, ahora en Coursera, donde tomé el curso \"Programación con JavaScript\" impartido por empleados de Meta. En este momento, estoy tomando todos los cursos del programa Meta Front-end Developer en Coursera, que incluye un total de 7 cursos (HTML y CSS en profundidad, Fundamentos de React, React Avanzado, Control de Versiones, APIs, Principios de diseño UX/UI y Programación con JavaScript). Además, hay otro segmento, que es el \"Front-end Developer Capstone\", que es un mini curso donde debes entregar un proyecto y se convierte en contenido para un portafolio personal para mostrar a los reclutadores."
+    }
+
+}
